@@ -34,6 +34,13 @@ header {
     padding: 0.5rem 0.5rem;
     display: flex;
     align-items: baseline;
+    position: fixed;
+    z-index: 99;
+    width: 100%;
+}
+
+header a {
+    text-decoration: none;
 }
 
 #logo-image-name-container {
