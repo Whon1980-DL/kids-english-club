@@ -1,12 +1,12 @@
+/* Google fonts import */
+@import url('https://fonts.googleapis.com/css2?family=Architects+Daughter&family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap');
+
 /* Asterisk wildcard selector to override default styles added by the browser */
 * {
     padding: 0;
     margin: 0;
     box-sizing: border-box;
 }
-
-/* Google fonts import */
-@import url('https://fonts.googleapis.com/css2?family=Architects+Daughter&family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap');
 
 /* General styles */
 body {
@@ -20,14 +20,35 @@ body {
     color: #010463;
 }
 
+h1 {
+    font-family: "Architects Daughter", cursive;
+    font-weight: 200;
+    font-style: normal;
+    text-transform: capitalize;
+    color: #010463;
+}
+
 /* Header */
 header {
-    background-color: #4484ce;
+    background-color: #d9d9d9;
+    padding: 0.5rem 0.5rem;
+    display: flex;
+    align-items: baseline;
 }
+
+#logo-image-name-container {
+    display: flex;
+}
+
+#logo-image-container img {
+    height: 40px;   
+    width: 40px;
+    margin-right: 5px;
+}   
 
 /* Main Content */
 main {
-    background-color: #d9d9d9;
+    background-color: #4484ce;
     /* Make main element take up any surplus space to push footer down */
     flex: 1 0 auto;
 }
