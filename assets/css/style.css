@@ -110,3 +110,45 @@ main {
 footer {
     background-color: #f9cf00;
 }
+
+/* media query: tablets and larger (768px and larger) */
+@media  screen and (min-width: 768px) {
+
+    /* Header */
+
+    header {
+        box-shadow: none;
+    }
+
+    nav {
+        display: block;
+        position: absplute;
+        width: 100%;
+        padding: 0 8px;
+    }
+
+    #menu {
+        display: flex;
+        justify-content: space-around;
+    }
+
+    .nav-toggle-label {
+        display: none;
+    }
+
+    #logo-image-name-container {
+        font-size: 200%;
+    }
+
+    #logo-image-container img {
+        width: 89px;
+        height: 89px;
+    }
+
+    /* Main content */
+    main {
+        /* Push main content down to accomodate larger header */
+        margin-top: 169.7px;
+    }
+    
+}
