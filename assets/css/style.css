@@ -113,8 +113,19 @@ main {
 }
 
 /* Footer */
-footer {
-    background-color: #f9cf00;
+#social-networks {
+    background-color: #d9d9d9;
+    text-align: center;
+    padding: 20px 0;
+    display: flex;
+    justify-content: space-evenly;
+    list-style-type: none;
+}
+
+#social-networks i {
+    font-size: 160%;
+    padding: 5%;
+    color: #010463;
 }
 
 /* media query: tablets and larger (768px and larger) */
