@@ -25,6 +25,7 @@ h1 {
     font-weight: 200;
     font-style: normal;
     text-transform: capitalize;
+    letter-spacing: 2px;
     color: #010463;
 }
 
@@ -41,11 +42,12 @@ header {
 
 header a {
     text-decoration: none; 
-    color: inherit;
+    color: #4484ce;
 }
 
 #logo-image-name-container {
     display: flex;
+    margin-bottom: 2em;
 }
 
 #logo-image-container img {
@@ -53,6 +55,20 @@ header a {
     width: 40px;
     margin-right: 5px;
 }   
+
+#menu {
+    font-size: 110%;
+    letter-spacing: 4px;
+    list-style-type: none;
+}
+
+#menu li {
+    margin-bottom: 2em;
+}
+
+.active {
+    color: #010463;
+}
 
 /* Main Content */
 main {
