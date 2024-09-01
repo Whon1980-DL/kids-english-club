@@ -25,7 +25,7 @@ h1 {
     font-weight: 200;
     font-style: normal;
     text-transform: capitalize;
-    letter-spacing: 2px;
+    /* letter-spacing: 2px; */ 
     color: #010463;
 }
 
@@ -33,11 +33,13 @@ h1 {
 header {
     background-color: #d9d9d9;
     padding: 0.5rem 0.5rem;
-    /* display: flex; */
+    display: flex;
     position: fixed;
     z-index: 99;
     width: 100%;
     box-shadow: 0 2px 2px #010463;
+    justify-content: space-between;
+    align-items: center;
 }
 
 header a {
@@ -65,7 +67,7 @@ header a {
 #menu li {
     margin-bottom: 2em;
 }
-ß
+
 .active {
     color: #010463;
 }
@@ -80,7 +82,21 @@ nav {
     padding: 0 1rem;
     box-shadow: 0 2px 2px #010463;
     display: none;
+    /* Tell the child element to start at the bottom of parent element */
+    top: 100%;
+}
 
+/* Nav toggle */
+#nav-toggle:checked~nav {
+    display: block;
+}
+
+#nav-toggle {
+    display: none;
+}
+
+.nav-toggle-label {
+    font-size: 2rem;
 }
 
 /* Main Content */
