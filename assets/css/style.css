@@ -69,6 +69,8 @@ header a {
 
 .active {
     color: #010463;
+    font-weight: bolder;
+    font-style: italic;
 }
 
 /* Navbar styles with dropdown toggle */
@@ -129,7 +131,7 @@ footer {
 
     #menu {
         display: flex;
-        justify-content: space-around;
+        justify-content: space-evenly;
     }
 
     .nav-toggle-label {
@@ -151,4 +153,13 @@ footer {
         margin-top: 169.7px;
     }
     
+}
+
+/* media query:larger devices (laptops and desktops, 992px and larger) */
+@media  screen and (min-width: 992px) {
+    #menu a:hover {
+        color: #010463;
+        font-weight: bolder;
+        font-style: italic;
+    }
 }
