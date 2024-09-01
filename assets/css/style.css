@@ -49,7 +49,6 @@ header a {
 
 #logo-image-name-container {
     display: flex;
-    margin-bottom: 1em;
 }
 
 #logo-image-container img {
@@ -104,6 +103,7 @@ main {
     background-color: #4484ce;
     /* Make main element take up any surplus space to push footer down */
     flex: 1 0 auto;
+    margin-top: 60.5px;
 }
 
 /* Footer */
