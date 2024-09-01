@@ -47,7 +47,7 @@ header a {
 
 #logo-image-name-container {
     display: flex;
-    margin-bottom: 2em;
+    margin-bottom: 1em;
 }
 
 #logo-image-container img {
@@ -65,9 +65,22 @@ header a {
 #menu li {
     margin-bottom: 2em;
 }
-
+ß
 .active {
     color: #010463;
+}
+
+/* Navbar styles with dropdown toggle */
+nav {
+    position: absolute;
+    background-color: #d9d9d9;
+    width: 100%;
+    left: 0;
+    text-align: center;
+    padding: 0 1rem;
+    box-shadow: 0 2px 2px #010463;
+    display: none;
+
 }
 
 /* Main Content */
