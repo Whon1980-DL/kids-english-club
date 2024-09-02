@@ -20,12 +20,11 @@ body {
     color: #010463;
 }
 
-h1 {
+h1, h2 {
     font-family: "Architects Daughter", cursive;
     font-weight: 200;
     font-style: normal;
     text-transform: capitalize;
-    /* letter-spacing: 2px; */ 
     color: #010463;
 }
 
@@ -114,9 +113,28 @@ main {
 /* Hero section */
 #hero {
     height: 600px;
-    width: 100%;
+    width: 100%; 
     background: url("../images/asian-boy-library-room-school.jpg") no-repeat center center/cover;
-    background-position: 85%;
+    background-position: 85%; 
+    position: relative;
+}
+
+#cover-text {
+    background-color: rgba(68, 132, 206, .7);
+    position: absolute; 
+    /* font-size: 140%; */
+    bottom: 20px;
+    width: 80%;
+    min-height: 90px;
+    padding: 20px;
+    padding-left: 20px;
+    right: 0px;
+    border-radius: 4px;
+}
+
+#cover-text > h2 {
+    color: #d9d9d9;
+    text-align: center;
 }
 
 /* Footer */
@@ -132,7 +150,7 @@ main {
 #social-networks i {
     font-size: 160%;
     padding: 5%;
-    color: #010463;
+    color: #4484ce;
 }
 
 /* media query: tablets and larger (768px and larger) */
@@ -174,7 +192,17 @@ main {
         /* Push main content down to accomodate larger header */
         margin-top: 169.7px;
     }
-    
+
+    /* Hero */ 
+    #cover-text {
+        width: 300px;
+        left: 50px;
+    }
+
+    #cover-text > h2 {
+        font-size: 200%;
+    }
+
 }
 
 /* media query:larger devices (laptops and desktops, 992px and larger) */
