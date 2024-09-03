@@ -139,18 +139,20 @@ main {
 
 div.section-title-container {
     padding: 34px 20px;
-    margin: 0 -12px;
-    background-color: #d9d9d9;
+    background-color: #f9cf00;
+    margin-left: 0;
+    margin-right: 0;
 }
 
 h2.nested {
     display: flex;
+    text-align: center;
+    align-items: center;
 }
 
 h2.nested::before {
     content: '';
     width: 20px;
-    height: 16px;
     border-bottom: solid #010463 2px;
     min-width: 94px;
     margin-right: 20px;
@@ -159,7 +161,6 @@ h2.nested::before {
 h2.nested::after {
     content: '';
     width: 40px;
-    height: 16px;
     border-bottom: solid #010463 2px;
     min-width: 94px;
     margin-left: 20px;
