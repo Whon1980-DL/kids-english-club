@@ -166,6 +166,16 @@ h2.nested::after {
     margin-left: 20px;
 }
 
+div.picholder {
+    margin: 1rem 0;
+}
+
+.section-image {
+    width: 304px;
+    height: auto;
+    object-fit: cover;
+}
+
 /* Footer */
 #social-networks {
     background-color: #d9d9d9;
