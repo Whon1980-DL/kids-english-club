@@ -155,7 +155,7 @@ h2.nested::before {
     content: '';
     width: 20px;
     border-bottom: solid #010463 2px;
-    min-width: 94px;
+    min-width: 85px;
     margin-right: 20px;
 }
 
@@ -163,7 +163,7 @@ h2.nested::after {
     content: '';
     width: 40px;
     border-bottom: solid #010463 2px;
-    min-width: 94px;
+    min-width: 85px;
     margin-left: 20px;
 }
 
@@ -179,6 +179,24 @@ div.picholder {
 
 p.description {
     text-align: center;
+    padding: 10px 10px;
+}
+
+section.image-description-side {
+    display: flex;
+    margin-top: 20px;
+}
+
+.section-image-portrait {
+    width: 100%;
+    height: auto;
+    object-fit: cover;
+    padding-right: 30px;
+}
+
+.reasons-text {
+    font-size: smaller;
+    margin-top: 15px;
 }
 
 /* Footer */
