@@ -17,7 +17,7 @@ body {
     font-family: "Montserrat", sans-serif;
     font-weight: 400;
     font-style: normal;
-    color: #010463;
+    color: darkslategray;
 }
 
 h1, h2, h5{
@@ -231,6 +231,17 @@ div#link-to-gallery a h5 {
 
 div#testimonials {
     margin-top: 15px;
+}
+
+p.testimonials-text {
+    font-size: smaller;
+    margin-top: 10px;
+}
+
+.writer {
+    text-align: center;
+    font-size: x-small;
+    margin-top: 10px;
 }
 
 /* Footer */
