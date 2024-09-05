@@ -138,7 +138,7 @@ main {
 }
 
 div.section-title-container {
-    padding: 34px 20px;
+    padding: 30px 15px;
     background-color: rgb(243, 219, 130);
     margin-left: 0;
     margin-right: 0;
@@ -156,7 +156,7 @@ h2.nested::before {
     width: 20px;
     border-bottom: solid #010463 2px;
     min-width: 85px;
-    margin-right: 20px;
+    margin-right: 5px;
 }
 
 h2.nested::after {
@@ -164,7 +164,7 @@ h2.nested::after {
     width: 40px;
     border-bottom: solid #010463 2px;
     min-width: 85px;
-    margin-left: 20px;
+    margin-left: 5px;
 }
 
 div.picholder {
@@ -204,6 +204,32 @@ section.image-description-side {
 
 .reasons-text {
     font-size: smaller;
+    margin-top: 15px;
+}
+
+div#link-to-gallery {
+    background-color: #4484ce; 
+    padding: 20px;
+    margin-top: 15px;
+}
+
+div#link-to-gallery a {
+    text-decoration: none;
+    text-align: center;
+    font-family: "Architects Daughter", cursive;
+}
+
+div#link-to-gallery a h2 {
+    font-family: "Architects Daughter", cursive;
+    color: #ffffff;
+}
+
+div#link-to-gallery a h5 {
+    font-family: "Architects Daughter", cursive;
+    color: #ffffff;
+ }
+
+div#testimonials {
     margin-top: 15px;
 }
 
