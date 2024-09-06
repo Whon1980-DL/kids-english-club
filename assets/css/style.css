@@ -1,5 +1,6 @@
 /* Google fonts import */
 @import url('https://fonts.googleapis.com/css2?family=Architects+Daughter&family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Shadows+Into+Light&display=swap');
 
 /* Asterisk wildcard selector to override default styles added by the browser */
 * {
@@ -15,18 +16,19 @@ body {
     flex-direction: column;
     /* General project styls */
     font-family: "Montserrat", sans-serif;
-    font-weight: 400;
+    font-weight: 200;
     font-style: normal;
     color: darkslategray;
-    line-height: 1.5rem;
+    /* line-height: 1.5rem; */
 }
 
 h1, h2, h5{
-    font-family: "Architects Daughter", cursive;
-    font-weight: 200;
+    font-family: "Shadows Into Light", cursive;
+    font-weight: 600;
     font-style: normal;
     text-transform: capitalize;
     color: #010463;
+    letter-spacing: 0.2rem;
 }
 
 /* Header */
@@ -100,7 +102,7 @@ nav {
     font-size: 2rem;
 }
 
-.fa-solid {
+i.fa-solid.fa-bars {
     color: #4484ce;
 }
 
@@ -143,6 +145,7 @@ div.section-title-container {
     background-color: #ffffff;
     margin-left: 0;
     margin-right: 0;
+    line-height: 1.5rem;
 }
 
 h2.nested {
@@ -156,7 +159,7 @@ h2.nested::before {
     content: '';
     width: 20px;
     border-bottom: solid #010463 2px;
-    min-width: 85px;
+    min-width: 75px;
     margin-right: 5px;
 }
 
@@ -164,7 +167,7 @@ h2.nested::after {
     content: '';
     width: 40px;
     border-bottom: solid #010463 2px;
-    min-width: 85px;
+    min-width: 75px;
     margin-left: 5px;
 }
 
@@ -176,11 +179,13 @@ div.picholder {
     width: 100%;
     height: auto;
     object-fit: cover;
+    border-radius: 15px;
 }
 
 p.description {
     text-align: center;
     padding: 10px 10px;
+    font-size: smaller;
 }
 
 /* section.image-description-side {
@@ -215,6 +220,7 @@ section#reasons-container {
 
 div#section-container-inner {
     display: flex;
+    flex-direction: column;
 }
 
 div.reasons-box {
@@ -224,6 +230,7 @@ div.reasons-box {
     box-shadow: 0px 2px 4px 0px rgba(0, 0, 0, .3);
     padding: 0px;
     flex-direction: column;
+    margin-top: 15px;
 }
 
 div.reasons-colour-box {
@@ -254,6 +261,10 @@ div.icon-box-content {
     margin-block-end: 1rem;
     line-height: 1.2;
     color: #ffffff;
+    font-size: larger;
+    font-family: "Shadows Into Light", cursive;
+    font-weight: 400;
+    font-style: normal;
 }
 
 div.content-box-inner {
@@ -266,9 +277,16 @@ div.content-box {
 
 div.content-box-inner p {
     margin: 14.4px 0px;
+    font-size: smaller;
 }
 
+div#reasons-colour-box-expert {
+    background-color: rgb(127, 255, 191);
+}
 
+div#reasons-colour-box-location {
+    background-color: rgb(255, 127, 140);
+}
 
 /* Gallery link */
 div#link-to-gallery {
@@ -280,16 +298,13 @@ div#link-to-gallery {
 div#link-to-gallery a {
     text-decoration: none;
     text-align: center;
-    font-family: "Architects Daughter", cursive;
 }
 
 div#link-to-gallery a h2 {
-    font-family: "Architects Daughter", cursive;
     color: #ffffff;
 }
 
 div#link-to-gallery a h5 {
-    font-family: "Architects Daughter", cursive;
     color: #ffffff;
  }
 
