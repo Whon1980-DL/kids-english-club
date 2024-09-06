@@ -261,10 +261,13 @@ div.icon-box-content {
     margin-block-end: 1rem;
     line-height: 1.2;
     color: #ffffff;
-    font-size: larger;
+    font-size: x-large;
     font-family: "Shadows Into Light", cursive;
     font-weight: 400;
     font-style: normal;
+    text-transform: capitalize;
+    letter-spacing: 2px;
+    
 }
 
 div.content-box-inner {
@@ -293,6 +296,7 @@ div#link-to-gallery {
     background-color: #4484ce; 
     padding: 20px;
     margin-top: 15px;
+    border-radius: 15px;
 }
 
 div#link-to-gallery a {
