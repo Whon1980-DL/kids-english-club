@@ -291,6 +291,24 @@ div#reasons-colour-box-location {
     background-color: rgb(255, 127, 140);
 }
 
+/* Circle background image */
+div#thinking-kid-image {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+div#circular-cover-bg {
+    background: url(../images/little-asian-girl-having-paper-pencil-hands-looking-up-writer-waiting-muse-isolated-green-background.jpg) no-repeat top center / cover;
+    height: 90vw;
+    width: 90vh;
+    margin-top: 30px;
+    margin-bottom: 20px;
+    border-radius: 50%;
+    max-width: 300px;
+    max-height: 300px;
+}
+
 /* Gallery link */
 div#link-to-gallery {
     background-color: #4484ce; 
