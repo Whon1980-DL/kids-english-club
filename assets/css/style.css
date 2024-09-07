@@ -322,6 +322,17 @@ div#content-box-inner-courses h4 {
     font-size: x-large;
 }
 
+div.courses-day-icon-content-container-inner {
+    display: flex;
+    flex-direction: row;
+}
+
+div.courses-day-icon-container {
+    padding-top: 15px;
+}
+
+
+
 /* Circle background image */
 div#thinking-kid-image {
     display: flex;
