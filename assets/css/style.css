@@ -433,7 +433,7 @@ p.testimonials-text {
 #social-networks i {
     font-size: 160%;
     padding: 5%;
-    color: #010463;
+    color:#4484ce
 }
 
 /* media query: tablets and larger (768px and larger) */
@@ -447,7 +447,7 @@ p.testimonials-text {
 
     nav {
         display: block;
-        position: absplute;
+        position: absolute;
         width: 100%;
         padding: 0 8px;
     }
@@ -495,4 +495,9 @@ p.testimonials-text {
         font-weight: bolder;
         font-style: italic;
     }
+
+    #social-networks i:hover {
+        color:#010463;
+    }
+    
 }
