@@ -22,7 +22,7 @@ body {
     /* line-height: 1.5rem; */
 }
 
-h1, h2, h5{
+h1, h2, h4, h5{
     font-family: "Shadows Into Light", cursive;
     font-weight: 600;
     font-style: normal;
@@ -224,6 +224,7 @@ p.description {
 section#reasons-container {
     display: flex;
     margin-top: 15px;
+    margin-bottom: 15px;
 }
 
 div#section-container-inner {
@@ -297,6 +298,23 @@ div#reasons-colour-box-expert {
 
 div#reasons-colour-box-location {
     background-color: rgb(255, 127, 140);
+}
+
+/* Courses */
+div.courses-colour-box {
+    padding: 0px;
+}
+
+img.courses-image {
+    width: 100%;
+    height: auto;
+    object-fit: cover;
+    border-radius: 15px 15px 0 0;
+}
+
+/* Need fixing */
+div#content-box-inner-courses h4 {
+    font-size: x-large;
 }
 
 /* Circle background image */
