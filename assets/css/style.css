@@ -16,10 +16,9 @@ body {
     flex-direction: column;
     /* General project styls */
     font-family: "Montserrat", sans-serif;
-    font-weight: 200;
+    font-weight: 400;
     font-style: normal;
-    color: darkslategray;
-    /* line-height: 1.5rem; */
+    color: rgb(18, 32, 32);
 }
 
 h1, h2, h4, h5{
