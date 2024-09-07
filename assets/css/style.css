@@ -331,6 +331,10 @@ div.courses-day-icon-container {
     padding-top: 15px;
 }
 
+div.courses-day-icon-content-container-inner p {
+    margin-left: 20px;
+}
+
 
 
 /* Circle background image */
