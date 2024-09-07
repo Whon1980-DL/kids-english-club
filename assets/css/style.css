@@ -402,6 +402,13 @@ div#testimonials {
     margin-top: 15px;
 }
 
+div#testimonials-content-container {
+    display: flex;
+    flex-direction: column;
+    margin-top: 15px;
+    text-align: center;
+}
+
 p.testimonials-text {
     font-size: smaller;
     margin-top: 10px;
