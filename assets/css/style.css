@@ -338,6 +338,26 @@ div.courses-day-icon-content-container-inner p {
     margin-left: 20px;
 }
 
+div.button-container-inner {
+    margin-bottom: 15px;
+}
+
+div.button-container-inner a {
+    display: block;
+    width: 50%;
+    margin: auto;
+    background-color:#4484ce;
+    padding: 5px 10px;
+    border-radius: 10px;
+    box-shadow: 0px 2px 4px 0px rgba(0, 0, 0, .3);
+    text-align: center;
+    text-decoration: none;
+}
+
+div.button-container-inner h5 {
+    color: #ffffff;
+}
+
 /* Circular background image */
 div#thinking-kid-image {
     display: flex;
