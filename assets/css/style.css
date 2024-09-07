@@ -317,27 +317,28 @@ img.courses-day-icon {
     width: 25px;
 }
 
-/* Need fixing */
-div#content-box-inner-courses h4 {
-    font-size: x-large;
+div.content-box-inner-courses h4 {
+    font-size: large;
+    margin-bottom: 5px;
+}
+
+div.content-box-inner-courses p {
+    margin-top: 0px;
 }
 
 div.courses-day-icon-content-container-inner {
     display: flex;
-    flex-direction: row;
 }
 
 div.courses-day-icon-container {
-    padding-top: 15px;
+    padding-top: 0px;
 }
 
 div.courses-day-icon-content-container-inner p {
     margin-left: 20px;
 }
 
-
-
-/* Circle background image */
+/* Circular background image */
 div#thinking-kid-image {
     display: flex;
     align-items: center;
