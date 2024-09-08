@@ -524,11 +524,6 @@ p.testimonials-text {
         flex-direction: row;
     }
 
-    h2.nested {
-        margin: 20px;
-        justify-content: space-between;
-    }
-
 }
 
 /* media query:larger devices (laptops and desktops, 992px and larger) */
@@ -549,6 +544,14 @@ p.testimonials-text {
 
     div.section-container-inner {
         flex-direction: row;
+    }
+
+    h2.nested::before {
+        width: 550px;
+    }
+    
+    h2.nested::after {
+        width: 550px;
     }
 
     /* Footer */
