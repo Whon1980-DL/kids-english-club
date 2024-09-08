@@ -524,6 +524,11 @@ p.testimonials-text {
         flex-direction: row;
     }
 
+    div.reasons-box {
+        margin-right: 15px;
+        margin-left: 15px;
+    }
+
 }
 
 /* media query:larger devices (laptops and desktops, 992px and larger) */
@@ -547,11 +552,11 @@ p.testimonials-text {
     }
 
     h2.nested::before {
-        width: 550px;
+        width: 600px;
     }
     
     h2.nested::after {
-        width: 550px;
+        width: 600px;
     }
 
     /* Footer */
