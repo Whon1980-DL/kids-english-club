@@ -544,6 +544,10 @@ p.testimonials-text {
         margin-left: 15px;
     }
 
+    /* Gallery */
+    #photos {
+        column-count: 3;
+    }
 }
 
 /* media query:larger devices (laptops and desktops, 992px and larger) */
