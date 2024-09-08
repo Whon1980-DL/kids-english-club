@@ -213,7 +213,7 @@ section#reasons-container {
     margin-bottom: 15px;
 }
 
-div#section-container-inner {
+div.section-container-inner {
     display: flex;
     flex-direction: column;
 }
@@ -506,6 +506,10 @@ p.testimonials-text {
         flex-direction: row;
     }
 
+    h2.nested {
+        margin: 20px;
+    }
+
 }
 
 /* media query:larger devices (laptops and desktops, 992px and larger) */
@@ -520,8 +524,12 @@ p.testimonials-text {
 
     /* Main content */
     div.section-title-container {
-        max-width: 50%;
+        max-width: 75%;
         margin: auto;
+    }
+
+    div.section-container-inner {
+        flex-direction: row;
     }
 
     /* Footer */
