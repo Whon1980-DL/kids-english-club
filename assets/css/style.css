@@ -466,11 +466,11 @@ p.testimonials-text {
 /* media query: large and landscape phone (576px and up) */
 @media screen and  (min-width: 576px) {
 
-    /* Main content */
-
-    /* div.section-title-container {
-        padding: 30px 60px
-    } */
+    /* Gallery */
+    #photos {
+        column-count: 2;
+        column-gap: 0;
+    }
     
 }
 
