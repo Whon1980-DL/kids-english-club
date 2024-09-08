@@ -597,6 +597,11 @@ p.testimonials-text {
         width: 600px;
     }
 
+    /* Gallery */
+    #photos {
+        column-count: 4;
+    }
+
     /* Footer */
 
     #social-networks i:hover {
