@@ -176,7 +176,7 @@ h2.nested::before {
 
 h2.nested::after {
     content: '';
-    width: 40px;
+    width: 20px;
     border-bottom: solid #010463 2px;
     min-width: 75px;
     margin-left: 5px;
@@ -432,6 +432,20 @@ p.testimonials-text {
     header h2 {
         font-size: xx-large;
     }
+
+    h2.nested {
+        justify-content: space-evenly;
+        margin-top: 40px;
+        margin-bottom: 40px;
+    }
+
+    h2.nested::before {
+        width: 210px;
+    }
+    
+    h2.nested::after {
+        width: 210px;
+    }
 }
 
 /* media query: large and landscape phone (576px and up) */
@@ -512,6 +526,7 @@ p.testimonials-text {
 
     h2.nested {
         margin: 20px;
+        justify-content: space-between;
     }
 
 }
