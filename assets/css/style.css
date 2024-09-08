@@ -485,6 +485,10 @@ p.testimonials-text {
         margin-top: 169.7px;
     }
 
+    div.section-title-container {
+        padding: 20px 30px 15px;
+    }
+
     /* Hero */ 
     #cover-text {
         width: 300px;
