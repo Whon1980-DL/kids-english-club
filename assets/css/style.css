@@ -546,11 +546,6 @@ p.testimonials-text {
     }
 
     /* Main content */
-    div.section-title-container {
-        max-width: 75%;
-        margin: auto;
-    }
-
     div.section-container-inner {
         flex-direction: row;
     }
