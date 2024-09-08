@@ -496,9 +496,18 @@ p.testimonials-text {
     }
 
     /* Reasons */
+
+    section#reasons-container {
+        max-width: 75%;
+        margin: auto;
+    }
     div.wrap-two {
         display: flex;
         flex-direction: row;
+    }
+
+    div#inverted-pyramid {
+        
     }
 
 }
