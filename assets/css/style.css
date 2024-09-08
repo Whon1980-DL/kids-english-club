@@ -52,6 +52,11 @@ header a {
     display: flex;
 }
 
+div#logo-name-container {
+    display: grid;
+    align-items: center; 
+}
+
 #logo-image-container img {
     height: 40px;   
     width: 40px;
