@@ -506,19 +506,25 @@ p.testimonials-text {
         flex-direction: row;
     }
 
-    div#inverted-pyramid {
-        
-    }
-
 }
 
 /* media query:larger devices (laptops and desktops, 992px and larger) */
 @media  screen and (min-width: 992px) {
+
+    /* Header */
     #menu a:hover {
         color: #010463;
         font-weight: bolder;
         font-style: italic;
     }
+
+    /* Main content */
+    div.section-title-container {
+        max-width: 50%;
+        margin: auto;
+    }
+
+    /* Footer */
 
     #social-networks i:hover {
         color:#010463;
