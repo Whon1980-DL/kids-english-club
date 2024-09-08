@@ -93,7 +93,7 @@ nav {
     left: 0;
     text-align: center;
     padding: 0 1rem;
-    box-shadow: 0 2px 2px #010463;
+    box-shadow: 0 2px 2px rgba(0, 0, 0, .3);
     display: none;
     /* Tell the child element to start at the bottom of parent element */
     top: 100%;
@@ -426,9 +426,23 @@ p.testimonials-text {
 
 /* media query: larger mobile phone (347px and up) */
 @media screen and (min-width: 347px) {
+
+    /* Header */
+
     header h2 {
         font-size: xx-large;
     }
+}
+
+/* media query: large and landscape phone (576px and up) */
+@media screen and  (min-width: 576px) {
+
+    /* Main content */
+
+    /* div.section-title-container {
+        padding: 30px 60px
+    } */
+    
 }
 
 /* media query: tablets and larger (768px and larger) */
@@ -479,6 +493,12 @@ p.testimonials-text {
 
     #cover-text > h2 {
         font-size: 200%;
+    }
+
+    /* Reasons */
+    div.wrap-two {
+        display: flex;
+        flex-direction: row;
     }
 
 }
