@@ -207,31 +207,6 @@ p.description {
     font-size: smaller;
 }
 
-/* section.image-description-side {
-    display: flex;
-    margin-top: 20px;
-}
-
-.section-image-portrait {
-    width: 100%;
-    height: auto;
-    object-fit: cover;
-}
-
-.padding-right {
-    padding-right: 20px;
-}
-
-.padding-left {
-    padding-left: 20px;
-}
-
-.reasons-text {
-    font-size: smaller;
-    margin-top: 15px;
-} 
-*/
-
 section#reasons-container {
     display: flex;
     margin-top: 15px;
@@ -447,6 +422,13 @@ p.testimonials-text {
     font-size: 160%;
     padding: 5%;
     color:#4484ce
+}
+
+/* media query: larger mobile phone (347px and up) */
+@media screen and (min-width: 347px) {
+    header h2 {
+        font-size: xx-large;
+    }
 }
 
 /* media query: tablets and larger (768px and larger) */
