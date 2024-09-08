@@ -499,6 +499,10 @@ p.testimonials-text {
         margin-top: 169.7px;
     }
 
+    div.section-pic-description {
+        display: flex;
+    }
+
     div.section-title-container {
         padding: 20px 30px 15px;
     }
