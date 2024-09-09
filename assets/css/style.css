@@ -423,6 +423,17 @@ p.testimonials-text {
     line-height: 0;
 }
 
+/* Contact page */
+
+
+/* #enquiry {
+    background-image: url(../images/contact/boy-learn-online.jpg) ;
+    background-size: cover;
+    background-position: 75%;
+    padding: 20px 10% 0 10%;
+    flex-grow: 1;
+} */
+
 /* Footer */
 #social-networks {
     background-color: #d9d9d9;
@@ -446,6 +457,12 @@ p.testimonials-text {
 
     header h2 {
         font-size: xx-large;
+    }
+
+    /* Main */
+    main {
+        /* Push main content down to accomodate larger header */
+        margin-top: 67.5px;
     }
 
     h2.nested {
