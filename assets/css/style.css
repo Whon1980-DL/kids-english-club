@@ -63,14 +63,14 @@ div#logo-name-container {
     margin-right: 5px;
 }  
 
-div#menu-container {
+/* div#menu-container {
     border: solid 1px rgba(0, 0, 0, .15);
     padding: 5px;
     border-radius: 5px;
     line-height: 0.5;
-}
+} */
 
-div#menu-container i {
+i.fa-bars {
     font-size: 1.5rem;
 }
 

@@ -51,6 +51,37 @@
             <img src="assets/images/contact/blue-asterisk.png" alt="Blue asterisk" width="10" height="10">
         </p>
         <section id="enquiry">
+            <form id="enquiry-form" action="" method="get">
+                <h2>
+                    <i class="fa-solid fa-circle-question"></i>Enquiry
+                </h2>
+                
+                <div class="radio-buttons">
+                    <div id="salutaion">
+                        Salutation:
+                    </div>
+                    <div>
+                        <input type="radio" name="salutation" id="salutation_mr" value="mr" required>
+                        <label for="salutation_mr">Mr.</label>
+                    </div>
+                    <div>
+                        <input type="radio" name="salutation" id="salutation_mrs" value="mrs" required>
+                        <label for="salutation_mr">Mrs.</label>
+                    </div>
+                    <br>
+                    <label for="first-name">First Name:</label>
+                    <input type="text" name="first_name" id="first-name" class="text-input" required>
+                    <br>
+                    <label for="last-name">Last Name:</label>
+                    <input type="text" name="last_name" id="last-name" class="text-input" required>
+                    <br>
+                    <label for="email-address">Email Address:</label>
+                    <input type="email" name="email_address" id="email-address" class="text-input" required>
+                    <br>
+
+                </div>
+
+            </form>
 
         </section>
     </main>
