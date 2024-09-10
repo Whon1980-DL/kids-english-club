@@ -455,6 +455,7 @@ div#salutation {
     background-color: rgba(60, 60, 60, 0.6);
     padding: 30px;
     border-radius: 5px;
+    margin-bottom: 20px;
 }
 
 .radio-buttons {
@@ -636,6 +637,7 @@ div#salutation {
     #enquiry {
     background-position: center;
     position: relative;
+    height: 800px;
     }
 
     #enquiry-form {
