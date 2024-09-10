@@ -500,10 +500,10 @@ div#salutation {
     box-shadow: 5px 5px 5px #000;
 }
 
-#map-contact {
-    display: flex;
-    flex-direction: column;
+#map-contact-wrapper {
+    background-color: #4484ce;
     padding: 10px 10px 50px 10px;
+    color: #ffffff;
 }
 
 #map {
@@ -664,6 +664,22 @@ div#salutation {
         position: absolute;
         left: 5%;
         top: 50px
+    }
+
+    #map-contact-wrapper {
+        padding: 50px 100px 50px 100px;
+        }
+    
+    #map {
+        margin-bottom: 10px;
+    }
+    
+    #contact {
+        text-align: center;
+    }
+    
+    #contact p {
+        margin-bottom: 14.4px;
     }
 }
 
