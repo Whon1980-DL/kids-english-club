@@ -500,6 +500,24 @@ div#salutation {
     box-shadow: 5px 5px 5px #000;
 }
 
+#map-contact {
+    display: flex;
+    flex-direction: column;
+    padding: 10px 10px 50px 10px;
+}
+
+#map {
+    margin-bottom: 10px;
+}
+
+#contact {
+    text-align: center;
+}
+
+#contact p {
+    margin-bottom: 14.4px;
+}
+
 
 /* Footer */
 #social-networks {
