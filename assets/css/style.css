@@ -215,7 +215,7 @@ p.description {
     font-size: smaller;
 }
 
-section#reasons-container {
+section.section-container {
     display: flex;
     margin-top: 15px;
     margin-bottom: 15px;
@@ -632,7 +632,7 @@ div#salutation {
 
     /* Reasons */
 
-    section#reasons-container {
+    section.section-container {
         max-width: 75%;
         margin: auto;
     }
