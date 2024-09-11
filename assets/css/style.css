@@ -646,7 +646,6 @@ div#salutation {
         margin-left: 15px;
     }
 
-
     /* Gallery */
     #photos {
         column-count: 3;
@@ -756,7 +755,6 @@ div#salutation {
     #social-networks i:hover {
         color:#010463;
     }
-    
 }
 
 /* media query: very large screen */
