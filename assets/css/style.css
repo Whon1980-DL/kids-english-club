@@ -590,7 +590,12 @@ div#map-container {
     }
     
     h2.nested::after {
-        width: 210px;
+        width: 210px
+    }
+
+    /* Courses detail page */
+    .back-to-home {
+        width: 30%;
     }
 }
 
@@ -723,6 +728,11 @@ div#map-container {
     
     #contact p {
         margin-bottom: 14.4px;
+    }
+
+    /* Courses detail page */
+    .back-to-home {
+        width: 17%;
     }
 }
 
