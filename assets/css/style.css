@@ -370,7 +370,10 @@ div#circular-cover-bg {
 }
 
 /* Gallery link */
-div#link-to-gallery {
+#link-to-gallery {
+    display: block;
+    width: 100%;
+    margin: auto;
     background-color: #4484ce; 
     padding: 20px;
     margin-top: 15px;
@@ -379,18 +382,14 @@ div#link-to-gallery {
     box-shadow: 0px 2px 4px 0px rgba(0, 0, 0, .3);
 }
 
-div#link-to-gallery a {
+a#link-to-gallery {
     text-decoration: none;
     text-align: center;
 }
 
-div#link-to-gallery a h2 {
+a#link-to-gallery h2, a#link-to-gallery h5 {
     color: #ffffff;
 }
-
-div#link-to-gallery a h5 {
-    color: #ffffff;
- }
 
 div#testimonials {
     margin-top: 15px;
