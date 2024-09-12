@@ -524,6 +524,7 @@ div#map-container {
     font-size: xx-large;
     text-align: center;
     padding: 300px 20px 0 20px;
+    overflow: auto;
 }
 
 .white {
@@ -532,11 +533,12 @@ div#map-container {
 
 .back-to-home {
     display: block;
-    width: 15%;
+    width: 50%;
     margin: auto;
     background-color: #010463;
     border-radius: 5px;
     margin-top: 60px;
+    margin-bottom: 30px;
     padding: 10px 5px;
     text-decoration: none;
 }
