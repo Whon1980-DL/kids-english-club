@@ -765,6 +765,10 @@ div#salutation {
         width: 600px;
     }
 
+    .hover-effect:hover {
+        font-size: large;
+    }
+
     /* Gallery */
     #photos {
         column-count: 4;
