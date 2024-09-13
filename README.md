@@ -60,3 +60,7 @@ The clear navigation of the website will contribute to an enjoyable experience w
     * Review the gallery for any new added photos of their love ones. 
 - - -
 
+## Features
+
+* This website is targeting parents who regard fun and activities-based learning as the best way to bring great potential in developing English language skill out of their children.
+* They can do that by exploring the site and reach out to the school using the contact page and locate the school with the help of the provided map on the contact page. 
