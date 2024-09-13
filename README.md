@@ -30,3 +30,13 @@ The learning style is portrayed throughout the entire website for being fun and 
 ### [Credits](#credits-1)
 ### [Acknowledgements](#acknowledgements-1)
 ---
+
+## User Experience (UX)
+
+This website is meant to provide up-to-date information and point of contact for existing customers and attract prospective customers who are parents looking for great and fun place for their children to learn English. 
+
+There is a clear slogan of delivering English learning with fun, great reasons for why learn with the school, courses detail and furthermore a form for making further enquiry easy. 
+
+User can also view gallery of images that showcase the great atmosphere of each lesson taught. 
+
+The clear navigation of the website will contribute to an enjoyable experience when exploring the website. 
