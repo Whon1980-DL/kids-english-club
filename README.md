@@ -64,3 +64,14 @@ The clear navigation of the website will contribute to an enjoyable experience w
 
 * This website is targeting parents who regard fun and activities-based learning as the best way to bring great potential in developing English language skill out of their children.
 * They can do that by exploring the site and reach out to the school using the contact page and locate the school with the help of the provided map on the contact page. 
+
+### Existing Features
+
+* navigation bar 
+    * It is featured and fixed on all the pages.
+    * The logo and school name is a link to allow for homepage returning navigation
+    * the menu bar also includes link to about us section, courses, gallery and contact page that gives indication of which page the user is at. 
+    * It is identical in design across the pages.
+    * Allows easy navigation from page without having to revert back to the previous page via the "back" button of a browser.
+
+    
