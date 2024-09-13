@@ -45,4 +45,18 @@ The clear navigation of the website will contribute to an enjoyable experience w
 
 * First-time visitor goals
     * Understand the main purpose of the site and learn more about the Kids English Club school.
-     * 
+     * Easily navigate throughout the whole site.
+     * Be drawn to responsive design that allow for enjoyable experience when accessing the site from any devices.
+     * Be urged to explore more with feedback on all links and buttons 
+     * Find the enquiry form to leave detail to be contacted back and ask further questions. 
+
+* Returning visitors goals
+    * Find out new update about courses provided and the school
+    * Locate contact information and send enquiry.
+    * Review the site's extensive gallery.
+
+* Frequent user goals
+    * Check if there are any new available courses that may better suit the change of need of their children.
+    * Review the gallery for any new added photos of their love ones. 
+- - -
+
