@@ -74,4 +74,4 @@ The clear navigation of the website will contribute to an enjoyable experience w
     * It is identical in design across the pages.
     * Allows easy navigation from page without having to revert back to the previous page via the "back" button of a browser.
 
-    
+![Navigation](/assets/images/readme/nav-bar.png)
