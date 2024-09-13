@@ -82,14 +82,19 @@ The clear navigation of the website will contribute to an enjoyable experience w
 
 ![Landing page image](/assets/images/readme/landing-page-image.png)
 
-* About Us
+* About Us Section
     * This section welcome user to the site with an image of a caring teacher and a warm welcoming message that will allow the user to see unique ways in which their little ones will be taught at the school.
     * The user will again feel that their little ones will be well looked after and understood. 
 
 ![About Us](/assets/images/readme/about-us-image.png) 
 
-* School Ethos section
+* School Ethos Section
     * The school ethos section will allow the user to see the benefits of enrolling their children with the school.
     * The three primary reasons are highlighted very clearly in each colourful info box. 
 
 ![School Ethos](/assets/images/readme/school-ethos-image.png)
+
+* Courses Overview Section
+    * This section will allow user to see what are the available courses that are currently taught by the school with information regarding the day the courses are taught, time when each course is taught and suitable age range for the courses for parents to decide which is the most suitable one.
+    * The section also contain link for user who want to find out more about each courses where clicking it will lead to a site that is coming soon. 
+    * The section will be updated as new courses become available in the near future. 
