@@ -87,3 +87,8 @@ The clear navigation of the website will contribute to an enjoyable experience w
     * The user will again feel that their little ones will be well looked after and understood. 
 
 ![About Us](/assets/images/readme/about-us-image.png) 
+
+* School Ethos section
+    * The school ethos section will allow the user to see the benefits of enrolling their children with the school.
+    * The three primary reasons are highlighted very clearly in each colourful info box. 
+
