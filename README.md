@@ -40,3 +40,9 @@ There is a clear slogan of delivering English learning with fun, great reasons f
 User can also view gallery of images that showcase the great atmosphere of each lesson taught. 
 
 The clear navigation of the website will contribute to an enjoyable experience when exploring the website. 
+
+### User Stories
+
+* First-time visitor goals
+    * Understand the main purpose of the site and learn more about the Kids English Club school.
+     * 
