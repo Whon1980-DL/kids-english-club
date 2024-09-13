@@ -3,4 +3,4 @@ Kids English Club, a fantastic English tuition school which has been running suc
 
 The learning style is portrayed throughout the entire website for being fun and interactive with activities based learning that is promised to bring great and hidden potential out from all children. There are even links for social media and even an interactive map to help easily locating the school. 
 
-
+![Am I Responsive](/assets/images/readme/am-i-responsive.png)
