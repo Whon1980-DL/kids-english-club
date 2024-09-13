@@ -80,3 +80,4 @@ The clear navigation of the website will contribute to an enjoyable experience w
     * The landing includes a photograph, of a little boy who was concentrating and enjoying what he was learning to do, with text overlay to let user immediately see as the fist message of the site that learning with the school is all about fun! 
     * This section introduce the user to have the urge to find out more how they can get the attention of their little ones to focus on learning, with an adoring image to grab their attention. 
 
+![Landing page image](/assets/images/readme/landing-page-image.png)
