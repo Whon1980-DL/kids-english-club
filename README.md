@@ -67,7 +67,7 @@ The clear navigation of the website will contribute to an enjoyable experience w
 
 ### Existing Features
 
-* navigation bar 
+* Navigation bar 
     * It is featured and fixed on all the pages.
     * The logo and school name is a link to allow for homepage returning navigation
     * the menu bar also includes link to about us section, courses, gallery and contact page that gives indication of which page the user is at. 
@@ -75,3 +75,8 @@ The clear navigation of the website will contribute to an enjoyable experience w
     * Allows easy navigation from page without having to revert back to the previous page via the "back" button of a browser.
 
 ![Navigation](/assets/images/readme/nav-bar.png)
+
+* The landing page image
+    * The landing includes a photograph, of a little boy who was concentrating and enjoying what he was learning to do, with text overlay to let user immediately see as the fist message of the site that learning with the school is all about fun! 
+    * This section introduce the user to have the urge to find out more how they can get the attention of their little ones to focus on learning, with an adoring image to grab their attention. 
+
