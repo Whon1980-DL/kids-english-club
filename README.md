@@ -81,3 +81,9 @@ The clear navigation of the website will contribute to an enjoyable experience w
     * This section introduce the user to have the urge to find out more how they can get the attention of their little ones to focus on learning, with an adoring image to grab their attention. 
 
 ![Landing page image](/assets/images/readme/landing-page-image.png)
+
+* About Us
+    * This section welcome user to the site with an image of a caring teacher and a warm welcoming message that will allow the user to see unique ways in which their little ones will be taught at the school.
+    * The user will again feel that their little ones will be well looked after and understood. 
+
+![About Us](/assets/images/readme/about-us-image.png) 
