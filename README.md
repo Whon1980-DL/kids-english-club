@@ -130,3 +130,5 @@ The clear navigation of the website will contribute to an enjoyable experience w
 * The Footer
     * The footer section includes links to the relevant social sites for Kids English Club. The links will open to a new tab to allow easy navigation for the user.
     * The footer is valuable to the user as it encourage them to keep connected via social media. 
+
+![The Footer](assets/images/readme/footer-image.png)
