@@ -147,3 +147,9 @@ The clear navigation of the website will contribute to an enjoyable experience w
 
 ![Enquiry form](/assets/images/readme/enquiry-form-image.png)
 ![Map and Address](assets/images/readme/map-address-image.png)
+
+* The Achknowlede Page
+    * This page allows user to see that their enquiry has been recieved and to be reassured that the school will get back to them.
+    * This page also provides back to contact button, wiht call-to action feature, in case user want to go back to the contact page to futher explore the map and address detail. 
+
+!
