@@ -144,3 +144,5 @@ The clear navigation of the website will contribute to an enjoyable experience w
     * By sending the enquiry form the user will be directed to an acknowledgement page that will reassure user that their form is received and that the school will get back to them as soon as possible. 
     * This page also provides an interactive google map to allow user to easily locate the school as well as providing the school address, phone number and email address. 
     * The angry boy image that is use on the page will allow user to see that school do understand all type of children emotion and that a struggle children will be fully supported at the school. 
+
+![Enquiry form](/assets/images/readme/enquiry-form-image.png)
