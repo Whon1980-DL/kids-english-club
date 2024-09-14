@@ -206,3 +206,39 @@ The W3C Markup Validator and W3C CSS Validator services were used to validate ev
  * [W3C CSS Validator](https://jigsaw.w3.org/css-validator/)
 
 _ _ _
+
+### Validation results
+
+<details>
+<summary>index.html
+</summary>
+
+![Home Page validation result](/assets/images/readme/html-validation.png)
+</details>
+
+<details>
+<summary>picture-gallery.html
+</summary>
+
+![Picture-Gallery validation result](/assets/images/readme/html-validation.png)
+
+</details>
+<details>
+<summary>contact.html
+</summary>
+
+![Contact page validation result](/assets/images/readme/html-validation.png)
+</details>
+<details>
+<summary>form-submit-acknowledge.html
+</summary>
+
+![Form Submit Acknowledge validation result](/assets/images/readme/html-validation.png)
+</details>
+<details>
+<summary>courses-detail.html
+</summary>
+
+![Courses Detail page validation result](/assets/images/readme/html-validation.png)
+</details>
+
