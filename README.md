@@ -106,6 +106,8 @@ The clear navigation of the website will contribute to an enjoyable experience w
     * By clicking on find out more like the user will be direct to a coming soon page where the detail will be added in the near future and advise them to revisit.
     * This page also provides a back to home button for easy navigation back to home and has a call to action feature. 
 
+![Courses Detail](assets/images/readme/courses-detail-page.png)
+
 * Thinking Kid Section
     * This section draw attention upon site user with a picture of a curious young mind that will constantly wan to explore the new world and that a skill in language can add to the ability to do that.
     * The image is display as circular to make it stand out and draw extra attention. 
