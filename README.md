@@ -138,3 +138,8 @@ The clear navigation of the website will contribute to an enjoyable experience w
     * This page is valuable to the user as they will be able to see the existing feel of the school that will reassure them of the safe and caring environment that the school provides. 
 
 ![Picture-Gallery](assets/images/readme/picture-gallery-image.png)
+
+* The Contact Page
+    * This page will allow the user to leave their detail and question they would like to ask further question about the school and courses.
+    * By sending the enquiry form the user will be directed to an acknowledgement page that will reassure user that their form is received and that the school will get back to them as soon as possible. 
+    * This page also provides an interactive google map to allow user to easily locate the school as well as providing the school address, phone number and email address. 
