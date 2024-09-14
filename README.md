@@ -241,4 +241,10 @@ _ _ _
 
 ![Courses Detail page validation result](/assets/images/readme/html-validation.png)
 </details>
+<details>
+<summary>style.css
+</summary>
+
+![CSS validation result](/assets/images/readme/css-validation.png)
+</details>
 
