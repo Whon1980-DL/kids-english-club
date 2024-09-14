@@ -146,3 +146,4 @@ The clear navigation of the website will contribute to an enjoyable experience w
     * The angry boy image that is use on the page will allow user to see that school do understand all type of children emotion and that a struggle children will be fully supported at the school. 
 
 ![Enquiry form](/assets/images/readme/enquiry-form-image.png)
+![Map and Address](assets/images/readme/map-address-image.png)
