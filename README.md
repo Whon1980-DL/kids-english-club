@@ -75,6 +75,9 @@ The clear navigation of the website will contribute to an enjoyable experience w
     * Border-radius are applied throughout all the pages to give the boxes a soft touch effect and unintimidating look.
     * Box-shadow effect are used throughout to add dimension to boxes and helping them draw more attention from user. 
 
+* Wireframes
+    Pen and paper in a notebook: simple and effective.
+
 _ _ _
 
 ## Features
