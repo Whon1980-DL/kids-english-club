@@ -98,9 +98,10 @@ The clear navigation of the website will contribute to an enjoyable experience w
     * This section will allow user to see what are the available courses that are currently taught by the school with information regarding the day the courses are taught, time when each course is taught and suitable age range for the courses for parents to decide which is the most suitable one.
     * The section also contain link for user who want to find out more about each courses where clicking it will lead to a site that is coming soon. 
     * The section will be updated as new courses become available in the near future. 
+    * The images use, once again emphasise the fun and stress free learning and interactive approach of teaching method. 
 
 ![Courses Overview](/assets/images/readme/courses-overview-image.png)
 
 * Thinking Kid Section
     * This section draw attention upon site user with a picture of a curious young mind that will constantly wan to explore the new world and that a skill in language can add to the ability to do that.
-    * The image is display as circular to make it stand out and draw extra attention.
+    * The image is display as circular to make it stand out and draw extra attention. 
