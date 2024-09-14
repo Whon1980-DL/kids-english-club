@@ -62,7 +62,20 @@ The clear navigation of the website will contribute to an enjoyable experience w
 
 ## Design
 
+* Colour Scheme
+    * Primary colours used on the website: ![Colour Scheme](/assets/images/readme/primary-colour-image.png)
+    * White is used as main colour for home page background colour as it can portrayed pureness and transparency which are important ethics for school. 
+    
+* Typography
+    * Shadow Into Light is used for all heading throughout all the pages as it being a hand written style it gives the site a playful feel and child play effect.
+    * Montserrat is used for all paragraph throughout all the pages as it will add formality to the webpage. 
+    * Architect Daughter is tie in as a fallback in case Shadow Into Light doesn't import for some reason.  
 
+* Text Boxes Style
+    * Border-radius are applied throughout all the pages to give the boxes a soft touch effect and unintimidating look.
+    * Box-shadow effect are used throughout to add dimension to boxes and helping them draw more attention from user. 
+
+_ _ _
 
 ## Features
 
