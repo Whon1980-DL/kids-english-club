@@ -256,4 +256,71 @@ _ _ _
 * Family and friends were asked to review the website for a better understanding of the user experience.
 * Dev Tools was used to test how the site looks on various screen sizes.
 
-s
+### Lighthouse Report
+
+#### Mobile analysis
+<details>
+<summary>Home Page
+</summary>
+
+![Home Page lighthouse report](/assets/images/readme/home-mobile-report.png)
+</details>
+<details>
+<summary>Picture-Gallery Page
+</summary>
+
+![Picture-Gallery Page lighthouse report](/assets/images/readme/gallery-mobile-report.png)
+</details>
+<details>
+<summary>Contact Page
+</summary>
+
+![Contact Page lighthouse report](/assets/images/readme/contact-mobile-report.png)
+</details>
+<details>
+<summary>Courses Detail Page
+</summary>
+
+![Courses Detail Page lighthouse report](/assets/images/readme/courses-detail-mobile-report.png)
+</details>
+<details>
+<summary>Acknowledge Page
+</summary>
+
+![Acknowledge Page lighthouse report](assets/images/readme/acknowledge-mobile-report.png)
+</details>
+
+#### Desktop analysis
+<details>
+<summary>Home Page
+</summary>
+
+![Home Page lighthouse report](/assets/images/readme/home-desktop-report.png)
+</details>
+<details>
+<summary>Picture-Gallery Page
+</summary>
+
+![Picture-Gallery Page lighthouse report](/assets/images/readme/gallery-desktop-report.png)
+</details>
+<details>
+<summary>Contact Page
+</summary>
+
+![Contact Page lighthouse report](/assets/images/readme/contact-desktop-report.png)
+</details>
+<details>
+<summary>Courses Detail Page
+</summary>
+
+![Courses Detail Page lighthouse report](/assets/images/readme/courses-detail-desktop-report.png)
+</details>
+<details>
+<summary>Acknowledge Page
+</summary>
+
+![Acknowledge Page lighthouse report](assets/images/readme/acknowledge-desktop-report.png)
+</details>
+
+_ _ _
+
