@@ -373,3 +373,11 @@ _ _ _
  * [Freeconvert](https://www.freeconvert.com/) Image file format converting.
 
 _ _ _
+
+## Acknowledgements
+
+ * My mentor Mitko Bachvarov provided helpful feedback and a link to the Flexbox guide.
+ * Slack community for encouragement and information.
+ * My wife who had looked after me and the children while I was completing the project.
+ * My two sons who has been very supporting and encouraging. 
+
