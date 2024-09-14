@@ -132,3 +132,8 @@ The clear navigation of the website will contribute to an enjoyable experience w
     * The footer is valuable to the user as it encourage them to keep connected via social media. 
 
 ![The Footer](assets/images/readme/footer-image.png)
+
+* Picture-Gallery
+    * The gallery will provide the user with support images to see the school classoom ambient and atmosphere, happy students and caring teachers as well as interactive approach of the school teaching method.
+    * This page is valuable to the user as they will be able to see the existing feel of the school that will reassure them of the safe and caring environment that the school provides. 
+
