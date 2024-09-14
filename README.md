@@ -105,3 +105,5 @@ The clear navigation of the website will contribute to an enjoyable experience w
 * Thinking Kid Section
     * This section draw attention upon site user with a picture of a curious young mind that will constantly wan to explore the new world and that a skill in language can add to the ability to do that.
     * The image is display as circular to make it stand out and draw extra attention. 
+
+![Thinking kid](assets/images/readme/thinking-kid-image.png)
