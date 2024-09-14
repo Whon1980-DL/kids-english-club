@@ -13,10 +13,10 @@ The learning style is portrayed throughout the entire website for being fun and 
 
 ### [User Experience (UX)](#user-experience-ux-1)
 * [User Stories](#user-stories)
+### [Design](#design-1)
 ### [Features](#features)
 * [Existing Features](#existing-features)
 ### [Features Left to Implement](#features-left-to-implement-1)
-### [Design](#design-1)
 ### [Technologies Used](#technologies-used-1)
 ### [Frameworks, Libraries & Programs Used](#frameworks-libraries--programs-used-1)
 ### [Testing](#testing-1)
@@ -59,6 +59,10 @@ The clear navigation of the website will contribute to an enjoyable experience w
     * Check if there are any new available courses that may better suit the change of need of their children.
     * Review the gallery for any new added photos of their love ones. 
 - - -
+
+## Design
+
+
 
 ## Features
 
