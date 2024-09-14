@@ -14,7 +14,6 @@ body {
     min-height: 100vh;
     display: flex;
     flex-direction: column;
-    /* General project styls */
     font-family: "Montserrat", sans-serif;
     font-weight: 400;
     font-style: normal;
@@ -141,7 +140,6 @@ main {
 #cover-text {
     background-color: rgba(68, 132, 206, .7);
     position: absolute; 
-    /* font-size: 140%; */
     bottom: 20px;
     width: 80%;
     min-height: 90px;
@@ -223,7 +221,6 @@ div.section-container-inner {
     flex-direction: column;
 }
 /* Reasons */
-
 div.reasons-courses-box {
     display: flex;
     gap: 0px 0px;
@@ -268,7 +265,6 @@ div.icon-box-content {
     font-style: normal;
     text-transform: capitalize;
     letter-spacing: 2px;
-    
 }
 
 div.content-box-inner {
@@ -418,7 +414,6 @@ p.testimonials-text {
 }
 
 /* Contact page */
-
 #enquiry {
     background-image: url(../images/contact/upset-boy.webp);
     background-size: cover;
@@ -607,14 +602,12 @@ div#map-container {
         column-count: 2;
         column-gap: 0;
     }
-    
 }
 
 /* media query: tablets and larger (768px and larger) */
 @media  screen and (min-width: 768px) {
 
     /* Header */
-
     header {
         box-shadow: none;
     }
@@ -665,7 +658,6 @@ div#map-container {
     }
 
     /* Reasons */
-
     section.section-container {
         max-width: 75%;
         margin: auto;
