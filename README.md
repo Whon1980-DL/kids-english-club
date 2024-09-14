@@ -140,6 +140,7 @@ The clear navigation of the website will contribute to an enjoyable experience w
 ![Picture-Gallery](assets/images/readme/picture-gallery-image.png)
 
 * The Contact Page
-    * This page will allow the user to leave their detail and question they would like to ask further question about the school and courses.
+    * This page will allow the user to leave their detail and question they would like to ask further question about the school and courses. The user will be asked to submit their full name, phone number, email address and message.
     * By sending the enquiry form the user will be directed to an acknowledgement page that will reassure user that their form is received and that the school will get back to them as soon as possible. 
     * This page also provides an interactive google map to allow user to easily locate the school as well as providing the school address, phone number and email address. 
+    * The angry boy image that is use on the page will allow user to see that school do understand all type of children emotion and that a struggle children will be fully supported at the school. 
