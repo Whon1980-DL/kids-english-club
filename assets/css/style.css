@@ -531,9 +531,9 @@ div#map-container {
     color: #ffffff;
 }
 
-.back-to-home {
+.back-to-previous {
     display: block;
-    width: 50%;
+    width: 80%;
     margin: auto;
     background-color: #010463;
     border-radius: 5px;
@@ -543,7 +543,7 @@ div#map-container {
     text-decoration: none;
 }
 
-.back-to-home h5 {
+.back-to-previous h5 {
     color: #ffffff;
     font-size: small;
 }
@@ -594,8 +594,8 @@ div#map-container {
     }
 
     /* Courses detail page */
-    .back-to-home {
-        width: 30%;
+    .back-to-previous {
+        width: 50%;
     }
 }
 
@@ -731,8 +731,8 @@ div#map-container {
     }
 
     /* Courses detail page */
-    .back-to-home {
-        width: 17%;
+    .back-to-previous {
+        width: 20%;
     }
 }
 
