@@ -197,3 +197,12 @@ _ _ _
  * [Am I Responsive](https://ui.dev/amiresponsive)
     * Mockup picture for the README file.
 _ _ _
+
+## Testing
+
+The W3C Markup Validator and W3C CSS Validator services were used to validate every page of the project to ensure there were no errors.
+
+ * [W3C Markup Validtor](https://validator.w3.org/)
+ * [W3C CSS Validator](https://jigsaw.w3.org/css-validator/)
+
+_ _ _
