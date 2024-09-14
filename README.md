@@ -354,7 +354,7 @@ By forking the repository, we make a copy of the original repository on our GitH
 6. Type `git clone` and then paste The URL copied in the step 3.
 7. Press Enter and your local clone will be created.
 
----
+_ _ _
 
 ## Credits
 
@@ -369,14 +369,7 @@ By forking the repository, we make a copy of the original repository on our GitH
 
 ### Media 
 
- * [Pexels](https://www.pexels.com/) free stock photos, royalty free images.
- * [Pixabay](https://pixabay.com/) free stock photos, royalty free images.
- * [Pixlr](https://pixlr.com/) Resizing images.
----
+ * [Freepik](https://www.freepik.com/) free stock photos, royalty free images.
+ * [Freeconvert](https://www.freeconvert.com/) Image file format converting.
 
-## Acknowledgements
-
- * My mentor Mitko Bachvarov provided helpful feedback and a link to the Flexbox guide.
- * Slack community for encouragement and information.
- * My wife who had looked after me and the children while I was completing the project.
- * My two sons who has been very supporting and encouraging. 
+_ _ _
