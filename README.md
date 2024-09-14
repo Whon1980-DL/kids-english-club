@@ -118,6 +118,8 @@ The clear navigation of the website will contribute to an enjoyable experience w
     * This part display a very meaningful quote to lift up the mood of the user to the next level.
     This part also itself is a link with a call-to-action feature for the user who want to visit the site gallery page to see more smile.
 
+![Quote and Link to Gallery](/assets/images/readme/quote-link-to-gallery.png)
+
 
 * Testimonials Section
     * This section allow user to see the genuine and sincere testimonials that has been written for the school and how happy they were with the result they can see in their children development with the school. 
