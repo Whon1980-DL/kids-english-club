@@ -117,3 +117,5 @@ The clear navigation of the website will contribute to an enjoyable experience w
 * Testimonials 
     * This section allow user to see the genuine and sincere testimonials that has been written for the school and how happy they were with the result they can see in their children development with the school. 
     * This section will also help them to make up their mind about choosing the school. 
+
+![Testimonials](assets/images/readme/testimonials-image.png)
