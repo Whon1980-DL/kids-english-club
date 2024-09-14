@@ -173,3 +173,11 @@ _ _ _
     * This page also provides back to contact button, wiht call-to action feature, in case user want to go back to the contact page to futher explore the map and address detail. 
 
 ![Acknowledge page](/assets/images/readme/acknowledge-page-image.png)
+_ _ _
+
+## Technologies Used
+
+ * [HTML5](https://en.wikipedia.org/wiki/HTML5)
+ * [CSS3](https://en.wikipedia.org/wiki/CSS)
+
+_ _ _
